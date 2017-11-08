@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="threePoints">+3 очка</string>
+    <string name="twoPoints">+2 очка</string>
+    <string name="onePoints">+1 очко</string>
+    <string name="countFines">Кол-во штрафов</string>
+    <string name="team_a">Первая команда</string>
+    <string name="startPoints">0</string>
+    <string name="add">+</string>
+    <string name="clear">Сбросить</string>
+    <string name="team_b">Вторая команда</string>
+</resources>
